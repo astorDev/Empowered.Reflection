@@ -1,9 +1,0 @@
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/bin/Debug/netstandard2.0/Empowered.Reflection.deps.json
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/bin/Debug/netstandard2.0/Empowered.Reflection.dll
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/bin/Debug/netstandard2.0/Empowered.Reflection.pdb
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.csprojAssemblyReference.cache
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.csproj.CoreCompileInputs.cache
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.AssemblyInfoInputs.cache
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.AssemblyInfo.cs
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.dll
-/Users/astor/Projects/Empowered.Reflection/Empowered.Reflection/obj/Debug/netstandard2.0/Empowered.Reflection.pdb
