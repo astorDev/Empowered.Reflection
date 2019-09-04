@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{CFEA43E8-3A15-481C-B73F-2BDDB7600562}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Empowered.Reflection/MethodInfoExtension.cs">
+    <Files>
+      <File FileName="Empowered.Reflection.Tests/MethodInfo_InvokeAsync_Should.cs" Line="56" Column="1" />
+      <File FileName="Empowered.Reflection/MethodInfoExtension.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Empowered.Reflection" expanded="True">
+            <Node name="Empowered.Reflection" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Empowered.Reflection.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Empowered.Reflection" expanded="True">
+            <Node name="Empowered.Reflection.Tests" expanded="True">
+              <Node name="Empowered" expanded="True">
+                <Node name="Reflection" expanded="True">
+                  <Node name="Tests" expanded="True">
+                    <Node name="MethodInfo_InvokeAsync_Should" expanded="True">
+                      <Node name="ReturnsAsyncReturnValue_WhenMethodIsAsyncWithReturnValue" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Empowered.Reflection.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
